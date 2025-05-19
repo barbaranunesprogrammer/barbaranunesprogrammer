@@ -12,7 +12,8 @@ Desenvolvedora Front-End focada em acessibilidade e interfaces inclusivas.
 
 ### 💼 Projetos em destaque
 -
-- [Meu Portfólio](https://github.com/barbaranunesprogrammer/portfolio)
+- [Meu Portfólio](https://github.com/barbaranunesprogrammer/portfoliopessoal)
+
 
 ### 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/barbaranunesprogrammer/)
