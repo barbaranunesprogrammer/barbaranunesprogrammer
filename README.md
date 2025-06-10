@@ -2,14 +2,6 @@
 
 Sou uma **desenvolvedora Front-End em transição de carreira**, apaixonada por tecnologia e em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos. Atualmente, estou cursando **Bacharelado em Sistemas de Informação na UNOPAR**, com previsão de conclusão em **Dez/2026**.
 
-## 🚀 O que eu busco
-
-Estou em busca de uma **vaga de estágio em Desenvolvimento Front-End ou área correlata**, onde eu possa:
-* Aplicar meus conhecimentos acadêmicos e cursos práticos.
-* Crescer profissionalmente dentro do universo da tecnologia.
-* Colaborar em projetos reais com muito comprometimento.
-
-Tenho **disponibilidade para estágio no contraturno do trabalho atual** e busco aprendizado prático com propósito.
 
 ## 💻 Minhas Habilidades
 
