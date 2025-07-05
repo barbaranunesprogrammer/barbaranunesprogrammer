@@ -26,7 +26,7 @@ Confira alguns dos meus projetos:
 
 Você pode explorar mais projetos no meu portfólio e GitHub:
 * **Portfólio:** [https://portfoliobarbara.vercel.app/](https://portfoliobarbara.vercel.app/)
-* **GitHub:** [github.com/barbaranunesprogramer](https://github.com/barbaranunesprogramer)
+* **GitHub:** [github.com/barbaranunesprogramer](https://github.com/barbaranunesprogrammer)
 
 ## 📚 Educação e Cursos
 
