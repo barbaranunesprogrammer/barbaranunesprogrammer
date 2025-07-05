@@ -44,6 +44,6 @@ Sou mãe atípica, estudante de Sistemas de Informação e apaixonada por tecnol
 
 Vamos nos conectar!
 
-* **LinkedIn:** [linkedin.com/in/barbaranunesprogramer](https://www.linkedin.com/in/barbaranunesprogramer)
+* **LinkedIn:** [linkedin.com/in/barbaranunesprogrammer](https://www.linkedin.com/in/barbaranunesprogrammer)
 * **E-mail:** barbaranunesprogrammer@outlook.com
 * **WhatsApp:** (64) 99289-6111
